@@ -1,0 +1,27 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: font-family: 'Be Vietnam Pro', sans-serif;
+}
+
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+.nav1{
+width: 400px;
+}
+
+.listasnav1{
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo{
+    height: 20px;
+}
